@@ -1,6 +1,6 @@
 # test-repo
-## Testing Markdown secondary headings
-### Testing markdown tertiary headings
+I have decided to use this file as a way to register important things to follow up while taking lectures from Coursera's Data Scientist Toolbox.
+
 
 ## References
 ### Markdown
@@ -9,3 +9,6 @@
 ### R
 https://cran.r-project.org/ <br/>
 <http://rseek.org/>
+
+### General
+Sloan Digital Sky Survey: || http://www.sdss.org/
