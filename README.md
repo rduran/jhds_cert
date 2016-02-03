@@ -11,4 +11,4 @@ https://cran.r-project.org/ <br/>
 <http://rseek.org/>
 
 ### General
-Sloan Digital Sky Survey: || http://www.sdss.org/
+Sloan Digital Sky Survey: http://www.sdss.org/ <br/>
