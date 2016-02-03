@@ -12,3 +12,6 @@ https://cran.r-project.org/ <br/>
 
 ### General
 Sloan Digital Sky Survey: http://www.sdss.org/ <br/>
+DarwinTunes <br/>
+www.data.gov >>> Procurar algo semelhante para o governo brasileiro <br/>
+How to share data with a statistician: https://github.com/jtleek/datasharing <br/>
