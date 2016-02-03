@@ -4,8 +4,8 @@
 
 ## References
 ### Markdown
-https://daringfireball.net/projects/markdown/
+<https://daringfireball.net/projects/markdown/>
 
 ### R
-https://cran.r-project.org/
-http://rseek.org/
+<https://cran.r-project.org/>
+<http://rseek.org/>
