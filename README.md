@@ -1,6 +1,5 @@
-# test-repo
-I have decided to use this file as a way to register important things to follow up while taking lectures from Coursera's Data Scientist Toolbox.
-
+# jhds_cert
+This repository is used to store relevant information related to Johns Hopkins University - Data Science Specialization Certification
 
 ## References
 ### Markdown
