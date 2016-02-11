@@ -13,7 +13,7 @@ https://www.r-project.org/
 ### General
 Sloan Digital Sky Survey: http://www.sdss.org/ <br/>
 DarwinTunes <br/>
-www.data.gov >>> Procurar algo semelhante para o governo brasileiro <br/>
+www.data.gov >>> Procurar algo semelhante para o governo brasileiro: http://dados.gov.br/ <br/>
 How to share data with a statistician: https://github.com/jtleek/datasharing <br/>
 Statistical inference: http://www.gs.washington.edu/academics/courses/akey/56008/lecture/lecture2.pdf <br/>
 Stanford Data Science Optimization - http://www.kdnuggets.com/2015/08/stanford-data-science-optimization-courses-programs.html <br/>
