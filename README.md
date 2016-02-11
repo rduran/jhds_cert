@@ -7,7 +7,8 @@ This repository is used to store relevant information related to Johns Hopkins U
 
 ### R
 https://cran.r-project.org/ <br/>
-<http://rseek.org/>
+http://rseek.org/ <br/>
+https://www.r-project.org/
 
 ### General
 Sloan Digital Sky Survey: http://www.sdss.org/ <br/>
