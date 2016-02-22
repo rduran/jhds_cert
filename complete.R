@@ -23,10 +23,10 @@ complete <- function (directory, id = 1:332) {
                 
                 # Assemble filenames to comply with 3 digit numbering names: 001.csv, 010.csv, 111.csv
                 file_id_str <- id[i]                
-                if (i < 10) { 
+                if ( id[i] < 10) { 
                         file_id_str <- paste("00", id[i], sep = "")
                 }
-                if (i >= 10 && i < 100 ){
+                if (id[i] >= 10 && id[i] < 100 ){
                         file_id_str <- paste("0", id[i], sep = "")
                 }
                 filename <- file.path(directory, paste(file_id_str, ".csv", sep = ""))
