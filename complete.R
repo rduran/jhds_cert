@@ -15,33 +15,35 @@ complete <- function (directory, id = 1:332) {
         }
         write2log("complete.log", "Valid directory:", directory)
  
-        result_frame <- data.frame()
-        for (file_id in id) {
+        n <- length(id)
+        result_frame <- as.data.frame(matrix(nrow = n, ncol = 2))
+        names(result_frame) <- c("id", "nobs")
+        
+        for (i in 1:n) {
                 
                 # Assemble filenames to comply with 3 digit numbering names: 001.csv, 010.csv, 111.csv
-                file_id_str <- file_id                
-                if (file_id < 10) { 
-                        file_id_str <- paste("00", file_id, sep = "")
+                file_id_str <- id[i]                
+                if (i < 10) { 
+                        file_id_str <- paste("00", id[i], sep = "")
                 }
-                if (file_id >= 10 && file_id < 100 ){
-                        file_id_str <- paste("0", file_id, sep = "")
+                if (i >= 10 && i < 100 ){
+                        file_id_str <- paste("0", id[i], sep = "")
                 }
                 filename <- file.path(directory, paste(file_id_str, ".csv", sep = ""))
                 
                 # read file into data frame
+                write2log("complete.log", filename)
                 frame <- read.csv(file = filename)
-                
-                # eliminate NAs
+
+                # get all complete cases
                 frame <- frame[ complete.cases(frame), ]
-                cat(frame)
-                write2log("complete.log", frame$id[1], length(frame$id))
+                write2log("complete.log", paste(id[i], nrow(frame), sep = " "))
 
                 # store in file mean array
                 # write2log("complete.log", frame$id[1], length(frame$id))
-                result_frame <- merge(result_frame, c(frame$id[1], length(frame$id)))
+                result_frame[i, ] <- c(id[i], nrow(frame))
                 
                 
         }
-#        names(result_frame) <- c("id", "nobs")
         return(result_frame)
 }
