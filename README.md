@@ -31,5 +31,5 @@ BioInformatics: http://bioconductor.org/ <br />
 
 ### Statistics with R
 
-ISL - Intoduction to statistical leanring: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
+ISL - Intoduction to statistical leanring: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf <br/>
 ESL - Elements of Statistical Learning: https://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf
