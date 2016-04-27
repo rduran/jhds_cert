@@ -28,3 +28,6 @@ How to share data with a statistician: https://github.com/jtleek/datasharing <br
 Statistical inference: http://www.gs.washington.edu/academics/courses/akey/56008/lecture/lecture2.pdf <br/>
 Stanford Data Science Optimization - http://www.kdnuggets.com/2015/08/stanford-data-science-optimization-courses-programs.html <br/>
 BioInformatics: http://bioconductor.org/ <br />
+
+### Statistics with R
+http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
