@@ -13,6 +13,8 @@ https://www.r-project.org/ <br/>
 #### R Learning Environment
 http://swirlstats.com/
 
+#### Base Graphs
+ggplot2 for begginers: http://varianceexplained.org/r/teach_ggplot2_to_beginners/ <br />
 
 ### Open Data - Open Government
 www.data.gov <br/>
