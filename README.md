@@ -16,6 +16,9 @@ http://swirlstats.com/
 #### Base Graphs
 ggplot2 for begginers: http://varianceexplained.org/r/teach_ggplot2_to_beginners/ <br />
 
+#### Other courses and references
+http://varianceexplained.org/RData/
+
 ### Open Data - Open Government
 www.data.gov <br/>
 http://dados.gov.br/ <br/>
