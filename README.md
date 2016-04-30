@@ -9,6 +9,7 @@ This repository is used to store relevant information related to Johns Hopkins U
 https://cran.r-project.org/ <br/>
 http://rseek.org/ <br/>
 https://www.r-project.org/ <br/>
+http://www.cookbook-r.com/ <br/>
 
 #### R Learning Environment
 http://swirlstats.com/
