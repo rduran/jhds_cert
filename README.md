@@ -12,7 +12,7 @@ https://www.r-project.org/ <br/>
 http://www.cookbook-r.com/ <br/>
 
 ### IDE
-[R Studio] (https://posit.co/download/rstudio-desktop/) <br />
+[R Studio https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/) <br />
 
 #### R Learning Environment
 http://swirlstats.com/
@@ -32,7 +32,7 @@ http://www.governoeletronico.gov.br/acoes-e-projetos/e-ping-padroes-de-interoper
 https://okfn.org/
 
 ### General
-Sloan Digital Sky Survey: http://www.sdss.org/ <br/>
+[Sloan Digital Sky Survey: http://www.sdss.org/ <br/>
 DarwinTunes <br/>
 How to share data with a statistician: https://github.com/jtleek/datasharing <br/>
 Statistical inference: http://www.gs.washington.edu/academics/courses/akey/56008/lecture/lecture2.pdf <br/>
@@ -43,4 +43,4 @@ BioInformatics: http://bioconductor.org/ <br />
 
 ISL - Intoduction to Statistical Learning: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf <br/>
 ESL - Elements of Statistical Learning: https://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf <br/>
-In Portugues: http://www.portalaction.com.br/ambiente-virtual-de-aprendizado
+
