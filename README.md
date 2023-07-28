@@ -11,6 +11,9 @@ http://rseek.org/ <br/>
 https://www.r-project.org/ <br/>
 http://www.cookbook-r.com/ <br/>
 
+### IDE
+[R Studio] (https://posit.co/download/rstudio-desktop/) <br />
+
 #### R Learning Environment
 http://swirlstats.com/
 
